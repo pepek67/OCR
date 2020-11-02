@@ -16,7 +16,7 @@
   "website": "https://telegram.dog/SpEcHlDe",
   "success_url": "https://t.me/SpEcHlDe/571",
   "env": {
-    "APP_ID": {
+    "BOT_KEY": {
       "description": "Get this value from my.telegram.org! Please do not steal"
     }
   },
